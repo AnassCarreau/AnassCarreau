@@ -28,12 +28,12 @@ I don't just use engines; I understand how they work under the hood. From develo
 
 ## 💼 Professional Experience & Key Projects
 
-### 🏢 **[Didascalias (Production Lead)](https://github.com/arome90/Didascalias)**
+### 🏢 **[Didascalias (Production Lead/Project at Complutense University)](https://github.com/arome90/Didascalias)**
 *Professional Role (2 Years)*
 > A robust simulation and management system developed and maintained over a 2-year production cycle.
 
 * **Role:** Core Software Engineer.
-* **Tech Stack:** C# (Advanced), Unity, System Architecture.
+* **Tech Stack:** C# (Advanced), Unity, System Architecture, VR/XR.
 * **Key Achievement:** Managed the full software lifecycle, focusing on long-term code maintainability, feature scalability, and tool development for end-users. This project demonstrates my ability to handle **complex production pipelines** and deliver stable software updates over continuous iterations.
 
 ---
