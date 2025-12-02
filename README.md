@@ -2,15 +2,16 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00599C&height=300&section=header&text=Anass%20Carreau&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20High-Performance%20Architecture&descAlignY=55&descAlign=50)
 
-  <p>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-    <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
-  </p>
+  <p>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+    <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
+  </p>
 
-  [Linkedin](https://linkedin.com/in/anass-carreau) • [Email](mailto:anasscaro@gmail.com)
+  [Linkedin](https://linkedin.com/in/anass-carreau) • [Email](mailto:anasscaro@gmail.com) • [CV / Resume](https://linkedin.com/in/anass-carreau)
 
 </div>
 
@@ -18,61 +19,82 @@
 
 ## 🎯 About Me: Transforming Latency into Performance
 
-I am a **Software Engineer** with a focus on **High-Performance Architecture** and **Real-time Simulation**. My engineering philosophy bridges the gap between gameplay logic and low-level memory management.
+I am a **Software Engineer** with over **2.5 years of experience** specializing in **High-Performance Architecture**, **Real-time Simulation**, and **VR Systems**. My engineering philosophy bridges the gap between high-level gameplay logic and low-level memory management.
 
-I don't just use engines; I understand how they work under the hood. From developing **custom C++ game engines** to maintaining large-scale production codebases in **C#**, my goal is always the same: **Efficiency, Scalability, and Clean Architecture.**
+From developing **custom C++ game engines** to delivering production-grade VR simulations, my goal is consistent: **Efficiency, Scalability, and Clean Architecture.**
 
-🚀 **Current Status:** Open to **Full-time roles** in Game Development (AAA/Indie) or Simulation Engineering.
-
----
-
-## 💼 Professional Experience & Key Projects
-
-### 🏢 **[Didascalias (Production Lead/Project at Complutense University)](https://github.com/arome90/Didascalias)**
-*Professional Role (2 Years)*
-> A robust simulation and management system developed and maintained over a 2-year production cycle.
-
-* **Role:** Core Software Engineer.
-* **Tech Stack:** C# (Advanced), Unity, System Architecture, VR/XR.
-* **Key Achievement:** Managed the full software lifecycle, focusing on long-term code maintainability, feature scalability, and tool development for end-users. This project demonstrates my ability to handle **complex production pipelines** and deliver stable software updates over continuous iterations.
+🚀 **Status:** Open to Full-time roles in Game Development (AAA/Indie) or Simulation Engineering.
 
 ---
 
-### ⚙️ **[Custom Game Engine (C++ R&D)](https://github.com/Papagayos-Games)**
-*Personal Engineering Challenge*
-> A custom-built game engine written from scratch to master low-level architecture.
+## 💼 Professional Experience
 
-* **Focus:** Memory Management, Rendering Pipelines (OpenGL), Data-Oriented Design.
-* **Why it matters:** Proves deep understanding of pointer arithmetic, resource allocation, and the internal mechanics of how game engines process frames, beyond the abstraction layers of Unity or Unreal.
+### 🥽 **[Didascalias (Complutense University)](https://github.com/arome90/Didascalias)**
+**Role: Lead Programmer & Tech Art Integrator**
+> *Serious Game (VR) | C# | Unity | WebSockets | AI/NLP*
+
+Solely responsible for the entire codebase of a production-grade VR simulation. I acted as the bridge between the Art team and the technical implementation, ensuring high-fidelity animations ran smoothly on standalone hardware (Quest 2/3).
+
+* **⚡ Networking & Backend:** Engineered a real-time communication layer using **WebSockets** to sync VR state with an external Web Server dashboard.
+* **🤖 AI & NLP:** Integrated **Wit.ai** for Natural Language Processing, enabling users to interact with virtual avatars via voice commands, adding a layer of immersive AI.
+* **🎨 Tech Art Pipeline:** Collaborated daily with 3D artists to optimize rig animations and assets, enforcing strict GPU budgets that reduced draw calls by **28%**.
+* **🚀 Optimization:** Achieved stable **72+ FPS** by implementing **spatial partitioning**, memory pooling, and reducing heap allocations by **45%**.
+* **📈 Impact:** Performance tuning improved user session completion rates by **22%**.
+
+### 🛠️ **Bertrandt Group**
+**Role: Software Developer (C++)**
+> *Automotive Tooling | C++17/20 | Profiling*
+
+Developed high-performance internal tools for processing automotive engineering datasets.
+
+* **🚀 Efficiency:** Accelerated data processing pipelines by **60%** through advanced profiling, cache optimization, and algorithmic improvements.
+* **⚡ Responsiveness:** Optimized GUI components to achieve **sub-50ms response times** for critical user interactions.
+* **💻 Modern C++:** Heavily utilized **C++17/20**, RAII, and STL optimizations, delivering production releases with **zero critical rollbacks**.
 
 ---
 
-## 📂 Repository Overview: R&D and Prototypes
+## 🧬 Engineering R&D & Personal Projects
 
-Beyond my core professional work, my GitHub serves as a laboratory for **Research & Development**.
+### ⚙️ **[Custom Game Engine (Papagayos)](https://github.com/Papagayos-Games)**
+> *C++ & Lua | OpenGL | Engine Architecture*
+* **The Challenge:** Built a game engine from scratch to master the render pipeline. **Includes 2 complete games** developed within the engine to validate the architecture.
+* **Key Tech:** Hybrid architecture using **C++** for the core engine and **Lua** for scripting and gameplay logic. Features a Custom ECS, OpenGL Rendering, and manual memory management.
 
-You will find a progression of repositories ranging from **C# Gameplay Systems** (like *Moruyankii Fighter*) to **C++ Optimization Experiments**. These projects explore specific engineering challenges such as:
-* **State Machine Implementations:** Decoupling logic for complex AI behaviors.
-* **Render Pipeline Tests:** experimenting with shaders and graphics optimization.
-* **Algorithm Implementations:** Testing data structures for speed and efficiency.
+### 🥊 **[Moruyankii Fighter](https://github.com/MoruyankiiFighter)**
+> *C++ | STL | Low-Level Gameplay*
+* **The Challenge:** A fighting game built without a commercial engine to practice efficient logic.
+* **Key Tech:** Written in **C++** utilizing the **Standard Template Library (STL)**. Implemented deterministic state machines and input buffering structures from scratch.
 
-*Feel free to explore the repositories to see the evolution of my code quality and architectural thinking.*
+### 🧪 **[While True Studio](https://github.com/while-true-studio)**
+> *C# | Unity | Collaborative Development*
+* **The Challenge:** Independent development studio focused on experimental gameplay and polished mechanics.
+* **Key Tech:** Implementation of scalable modular systems for team collaboration, "juice" feedback algorithms, and iterative development of complex game loops.
 
 ---
 
-## 🛠️ SKILL MATRIX: High-Performance & Simulation
+## 🎓 Education
+
+**Bachelor's Degree in Video Game Development**
+*Complutense University of Madrid (2018 - 2022)*
+* **Focus:** Game Engine Architecture, Real-Time Rendering, GPU Programming, and Advanced Algorithms.
+
+---
+
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-| **Core Engineering** | **Engines & Frameworks** | **Tools & Optimization** |
+| **Languages & Core** | **Engines & Frameworks** | **Tools & Protocols** |
 | :--- | :--- | :--- |
-| **C++** (High-Performance/STL) | **Unity** (Editor Tools/Runtime) | RenderDoc & Profilers |
-| **C#** (Production Grade) | **Unreal Engine 4/5** | Git / GitHub Flows |
-| Data-Oriented Design | Oculus SDK / XR Toolkit | Visual Studio / VS Code |
-| Memory Management | HLSL / GLSL Shaders | Firebase / Backend Integration |
-| Multithreading | Physics Simulation | Agile / Scrum Methodologies |
+| **C++** (17/20, STL, RAII) | **Unity** (XR Interaction Toolkit) | RenderDoc & Profilers |
+| **C#** (Advanced/Production) | **Unreal Engine 4/5** | WebSockets / Networking |
+| **Lua** (Scripting) | **Oculus SDK / Quest** | **Firebase** (Auth/DB) |
+| **Data-Oriented Design** | **OpenGL** | Wit.ai (NLP/Voice) |
+| **Multithreading** | **Physics Simulation** | Git / CI/CD Flows |
 
 </div>
+
+**🗣️ Languages:** Spanish (Native), Arabic (Native), English (Professional).
 
 ---
 
