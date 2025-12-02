@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
   </p>
 
-  [Linkedin](https://linkedin.com/in/anass-carreau) • [Email](mailto:anasscaro@gmail.com) • [CV / Resume](https://linkedin.com/in/anass-carreau)
+  [Linkedin](https://linkedin.com/in/anass-carreau) • [Email](mailto:anasscaro@gmail.com) 
 
 </div>
 
