@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:667EEA&height=280&section=header&text=ANASS%20CARREAU&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Game%20Development%20|%20Software%20Engineering%20|%20Performance%20Tuning&descAlignY=52&descSize=22)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:667EEA&height=280&section=header&text=ANASS%20CARREAU&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Game%20Development%20|%20Software%20Engineering%20|%20AI%20Integration)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=High-Performance+C%2B%2B+Engineer;VR%2FXR+Systems+%26+AI+Mechanics;Real-Time+Systems+Architect;AI+%26+Cloud+Integration" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=High-Performance+C%2B%2B+Engineer;Game+Development+%26+VR%2FXR;Real-Time+Systems+Developer;AI+%26+Business+Digitalization" alt="Typing SVG" /></a>
 <br/>
 
 <p>
@@ -11,7 +11,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=00D9FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=AnassCarreau&color=00D9FF&style=for-the-badge" />
 
 </div>
 
