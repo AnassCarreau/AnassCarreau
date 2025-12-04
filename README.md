@@ -1,9 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:667EEA&height=280&section=header&text=ANASS%20CARREAU&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Game%20Development%20|%20Software%20Engineering%20|%20AI%20Integration)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:667EEA&height=280&section=header&text=ANASS%20CARREAU&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=High-Performance+C%2B%2B+Engineer;Game+Development+%26+VR%2FXR;Real-Time+Systems+Developer;AI+%26+Business+Digitalization" alt="Typing SVG" /></a>
-<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=750&lines=Software+Engineer;C%2B%2B%2FC%23+Systems;XR%2FVR+(Unity)+%26+AI+Integration;Performance+Optimization;72%2B+FPS+on+Quest+Hardware" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://linkedin.com/in/anass-carreau"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -17,57 +16,34 @@
 
 ---
 
-## 🎯 The Bridge Between Innovation & Implementation
+## 👋 Who I Am
 
-**Software Engineer with 2.5+ years** specializing in **performance-critical C++ systems**, **real-time VR**, and **scalable game architectures**. Proven track record: **72+ FPS VR** on Quest devices, **40%+ memory reduction**, and **60% data pipeline acceleration**. Currently expanding into **AI/ML integration** and **business digitalization** to deliver end-to-end technical solutions.
+**Software Engineer specializing in systems where performance isn't optional.**
 
-**Core Expertise:**
-- ⚡ **High-Performance C++** - Memory management, multithreading, cache optimization, STL mastery
-- 🎮 **Real-Time Rendering** - GPU optimization, shader programming (HLSL/GLSL), 28% draw call reduction
-- 🥽 **VR/XR Development** - Quest SDK, XR Toolkit, spatial partitioning, 72+ FPS on standalone devices
-- 🤖 **AI Integration** - NLP systems (Wit.ai), voice recognition, Firebase cloud backends
-- 🏗️ **Game Engines** - Unity (C#), Unreal Engine, custom engine development (OpenGL, Lua)
+I build **real-time interactive systems** that demand precision engineering—whether it's rendering **72+ FPS on mobile VR hardware**, accelerating **C++ data pipelines by 60%**, or integrating **AI conversational systems** with sub-second latency. My expertise bridges visual immersion (XR/VR), low-level optimization (C++ systems), and modern AI integration.
 
-> 💼 **Open for:** Full-time Roles (Game Dev, Graphics, VR) • Freelance (AI Integration, Performance Optimization, VR Development, Business Digitalization)
+**The Philosophy:** *Understand the constraints. Eliminate the bottlenecks. Ship production-ready solutions.*
 
----
+### 🎯 Core Specializations
+```plaintext
+┌─ XR & Real-Time Graphics ────────────────────────────────────┐
+│ Unity/Unreal optimization • 72+ FPS on Quest devices         │
+│ Shader programming (HLSL/GLSL) • GPU/CPU profiling           │
+│ Spatial partitioning • Memory pooling • Draw call reduction  │
+└───────────────────────────────────────────────────────────────┘
 
-## 💼 Professional Experience
+┌─ High-Performance C++ Systems ────────────────────────────────┐
+│ Modern C++17/20 • RAII & object pooling • Cache optimization │
+│ Multithreading • STL mastery • Sub-50ms response times       │
+│ Memory management • Profiling & algorithmic optimization     │
+└───────────────────────────────────────────────────────────────┘
 
-<table>
-<tr>
-<td width="50%">
-
-### 🥽 **Complutense University of Madrid**
-**VR Software Developer (Unity)** | *Feb 2023 – Nov 2024*
-
-✅ **72+ FPS** on Quest via memory pooling + spatial partitioning  
-✅ **35% network payload** reduction (Firebase sync layer)  
-✅ **28% draw call** reduction across 15+ scenes  
-✅ **45% heap allocation** reduction (custom object pooling)  
-✅ **40% input latency** cut (async NLP with Wit.ai)  
-✅ **22% user completion** rate improvement  
-✅ **95+ critical bugs** resolved in 8-month cycle
-
-**Stack:** C# • Unity • Quest SDK • Wit.ai • Firebase • WebSockets
-
-</td>
-<td width="50%">
-
-### 🛠️ **Bertrandt Group**
-**Software Developer (C++)** | *Feb 2022 – Aug 2022*
-
-✅ **60% faster** data processing (profiling + cache optimization)  
-✅ **Sub-50ms** GUI response times  
-✅ **Zero critical rollbacks** in production  
-✅ **30% faster** incident resolution (robust logging)  
-✅ **Modern C++17/20** (RAII, STL, clean OOP)
-
-**Stack:** C++17/20 • Visual Studio • Git CI/CD • Profiling Tools
-
-</td>
-</tr>
-</table>
+┌─ AI Integration & Backend ────────────────────────────────────┐
+│ OpenAI API • ElevenLabs TTS • Wit.ai voice recognition       │
+│ WebSockets • Firebase • Real-time synchronization            │
+│ Async processing • Thread-safe design • Low-latency APIs     │
+└───────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -75,78 +51,144 @@
 
 <div align="center">
 
-| **Category** | **Technologies** |
-|:---|:---|
-| **Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HLSL/GLSL](https://img.shields.io/badge/Shaders-5C3EE8?style=flat-square&logo=opengl&logoColor=white) |
-| **Engines & VR/XR** | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) ![Unreal](https://img.shields.io/badge/Unreal-313131?style=flat-square&logo=unreal-engine&logoColor=white) ![Oculus](https://img.shields.io/badge/Oculus-1C1E20?style=flat-square&logo=oculus&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white) |
-| **AI & Cloud** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) Wit.ai • REST APIs |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS](https://img.shields.io/badge/VS-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) RenderDoc • Unity Profiler |
-| **Specializations** | Memory Management • Multithreading • Data-Oriented Design • Performance Tuning • Real-Time Rendering • AI Integration |
+### Languages & Core
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-5C3EE8?style=for-the-badge&logo=opengl&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**🗣️ Languages:** English (Professional) • Spanish (Native) • Arabic (Native)
+### Engines & Graphics
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![Meta Quest](https://img.shields.io/badge/Meta_Quest-1C1E20?style=for-the-badge&logo=oculus&logoColor=white)
+
+### AI & Cloud
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![RenderDoc](https://img.shields.io/badge/RenderDoc-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-## 🤖 Services for Businesses & Teams
-
-| 🎯 **Service** | 💡 **Value Delivered** | 🛠️ **Technology** |
-|:---|:---|:---|
-| **VR/AR Development** | Immersive training, product visualizations, simulations | Unity, Unreal, Quest SDK, XR Toolkit |
-| **Performance Optimization** | Eliminate bottlenecks, reduce costs, memory profiling | C++, Unity Profiler, RenderDoc, Data-Oriented Design |
-| **AI/NLP Integration** | Voice recognition, chatbots, cloud backends | Python, Wit.ai, Firebase, TensorFlow, REST APIs |
-| **Business Digitalization** | Process automation, data pipelines, AI workflows | Python, C++, Cloud Integration |
-| **Real-Time Rendering** | High-fidelity graphics, shader development | HLSL/GLSL, GPU optimization, render batching |
-| **Custom Game Systems** | Gameplay mechanics, physics, networked multiplayer | C++, C#, Unity, Unreal Engine |
-
----
-
-## 🏗️ Featured Projects & R&D
+## 💡 What I Build
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### 🥽 Immersive XR Systems
+Production-grade VR applications optimized for standalone hardware
+
+**Achievements:**
+- ✅ 72+ FPS on Meta Quest 2/3
+- ✅ 45% heap allocation reduction
+- ✅ 28% draw call optimization
+- ✅ Hand tracking & physics-based interactions
+
+**Stack:** Unity, C#, NLP, HLSL, XR Toolkit
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ High-Performance C++ Engines
+Custom engines & systems-level optimization
+
+**Achievements:**
+- ✅ 60% data pipeline acceleration
+- ✅ Sub-50ms response times
+- ✅ Zero critical production failures
+- ✅ Memory-safe, cache-aware architectures
+
+**Stack:** C++17/20, STL, Profiling Tools, OpenGL
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI-Powered Interactive Systems
+Conversational agents & generative AI integration
+
+**Achievements:**
+- ✅ 40% latency reduction (async design)
+- ✅ OpenAI + ElevenLabs + Wit.ai integration
+- ✅ Thread-safe runtime processing
+- ✅ Context-aware behavior trees
+
+**Stack:** Python, C#, OpenAI API, Firebase, WebSockets
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Real-Time Backend Infrastructure
+Scalable networking & data synchronization
+
+**Achievements:**
+- ✅ 35% network payload reduction
+- ✅ WebSocket-based state replication
+- ✅ Concurrent multi-user sessions
+- ✅ Secure authentication layers
+
+**Stack:** C++, Firebase, WebSockets, SQL, REST APIs, Async Processing
+
+</td>
+</tr>
+</table>
+
+
+## 🏗️ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🥽 Didascalias - VR Teacher Training Platform
+**Educational VR system with AI-powered NPCs**
+
+🎯 Production-grade simulator for teacher training with real-world testing  
+🛠️ Unity • C# • Meta Quest SDK • OpenAI • Wit.ai • Firebase
+
+</td>
 <td width="50%">
 
 ### ⚙️ [Custom Game Engine (Papagayos)](https://github.com/Papagayos-Games)
 **From-scratch engine with 2 shipped games**
 
 🎯 Master low-level rendering & memory management  
-🛠️ Hybrid C++/Lua • Custom ECS • OpenGL  
+🛠️ Hybrid C++/Lua • Custom ECS • OpenGL • SDL  
 📊 Validates production-ready architecture
-
-</td>
-<td width="50%">
-
-### 🥊 [Fighter Traighter](https://github.com/MoruyankiiFighter/FighterTraighter)
-**Fighting game with pre-combat training phases**
-
-🎯 Hybrid fighting game: training phase → ability selection → combat  
-🛠️ C++ • SDL • 3 characters with unique movesets • 17 abilities across 5 tiers  
-📊 Custom state machines, input buffering, deterministic frame-perfect combat
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🗡️ [Goblin Slayer](https://github.com/while-true-studio/GoblinSlayer)
-**2D Hack 'n' Slash RPG with rage system**
+### 🥊 [Fighter Traighter](https://github.com/MoruyankiiFighter/FighterTraighter)
+**Fighting game with pre-combat training phases**
 
-🎯 Combat system with 3 rage modes, dual-stance mechanics  
-🛠️ C# • Unity • Enemy AI • Boss battles with multiple phases  
-📊 Complete GDD, tile-based level design, speedrun focus
+🎯 Hybrid gameplay: training → ability selection → combat  
+🛠️ C++ • SDL • 3 characters • 17 abilities across 5 tiers  
+📊 Custom state machines • Input buffering • Frame-perfect deterministic combat
 
 </td>
 <td width="50%">
 
-### 🔬 **Active R&D**
-**Continuous learning & exploration**
+### 🗡️ [Goblin Slayer](https://github.com/while-true-studio/GoblinSlayer)
+**2D Hack 'n' Slash RPG with rage system**
 
-- Physics simulation optimization
-- AI-driven procedural generation
-- Real-time ray tracing techniques
-- Network synchronization protocols
+🎯 Combat system with 3 rage modes & dual-stance mechanics  
+🛠️ C# • Unity • Enemy AI • Multi-phase boss battles  
+📊 Complete GDD • Tile-based level design • Speedrun-focused
 
 </td>
 </tr>
@@ -154,21 +196,12 @@
 
 ---
 
-## 🎓 Education & Learning
 
-**Bachelor's in Video Game Development** • *Complutense University of Madrid (2018-2022)*
-
-**Key Courses:** Game Engine Architecture • Real-Time Rendering • GPU Programming • Physics Simulation • Networked Multiplayer • Computer Architecture
-
-**Current Focus:** 🤖 AI/ML (TensorFlow, PyTorch) • 🏢 Business Digitalization • 📊 Data Pipelines & Cloud Integration
-
----
-
-## 📬 Let's Connect
+## 📫 Let's Connect
 
 <div align="center">
 
-**Optimized, production-ready solutions combining real-time performance with modern AI capabilities.**
+**Building systems that don't just work—but work exceptionally well.**
 
 <p>
   <a href="mailto:anasscaro@gmail.com">
@@ -182,7 +215,14 @@
   </a>
 </p>
 
-**⚡ "Transforming complex problems into elegant solutions, one commit at a time."**
+### 💼 Open For
+
+**Full-Time:** Game Development • Graphics Engineering • XR/VR • Systems Programming • AI Integration  
+**Freelance:** Performance Optimization • VR Development • AI Integration • Backend Architecture
+
+---
+
+⚡ *"Transforming complex constraints into elegant solutions, one commit at a time."*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:667EEA&height=120&section=footer)
 
