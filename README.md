@@ -15,14 +15,16 @@
 </div>
 
 ---
-
 ## 👋 Who I Am
 
-**Software Engineer specializing in systems where performance isn't optional.**
+Software Engineer solving problems where **performance is non-negotiable** 
+and **milliseconds define user experience.**
 
-I build **real-time interactive systems** that demand precision engineering—whether it's rendering **72+ FPS on mobile VR hardware**, accelerating **C++ data pipelines by 60%**, or integrating **AI conversational systems** with sub-second latency. My expertise bridges visual immersion (XR/VR), low-level optimization (C++ systems), and modern AI integration.
+I build real-time interactive systems—from **VR simulations** to **high-performance 
+C++ backends** to **AI-powered conversational agents**. My expertise bridges 
+visual immersion, low-level optimization, and modern AI integration.
 
-**The Philosophy:** *Understand the constraints. Eliminate the bottlenecks. Ship production-ready solutions.*
+**Philosophy:** *Understand the constraint → Eliminate the bottleneck → Ship production code.*
 
 ### 🎯 Core Specializations
 ```plaintext
