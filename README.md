@@ -7,7 +7,6 @@
 <p>
   <a href="https://linkedin.com/in/anass-carreau"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:anasscaro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=AnassCarreau&color=00D9FF&style=for-the-badge" />
@@ -25,28 +24,22 @@ C++ backends** to **AI-powered conversational agents**. My expertise bridges
 visual immersion, low-level optimization, and modern AI integration.
 
 **Philosophy:** *Understand the constraint → Eliminate the bottleneck → Ship production code.*
-
 ### 🎯 Core Specializations
-```plaintext
-┌─ XR & Real-Time Graphics ────────────────────────────────────┐
-│ Unity/Unreal optimization • 72+ FPS on Quest devices         │
-│ Shader programming (HLSL/GLSL) • GPU/CPU profiling           │
-│ Spatial partitioning • Memory pooling • Draw call reduction  │
-└───────────────────────────────────────────────────────────────┘
 
-┌─ High-Performance C++ Systems ────────────────────────────────┐
-│ Modern C++17/20 • RAII & object pooling • Cache optimization │
-│ Multithreading • STL mastery • Sub-50ms response times       │
-│ Memory management • Profiling & algorithmic optimization     │
-└───────────────────────────────────────────────────────────────┘
+**🥽 XR & Real-Time Graphics**
+- Unity/Unreal optimization · 72+ FPS on Quest devices
+- Shader programming (HLSL/GLSL) · GPU/CPU profiling
+- Spatial partitioning · Memory pooling · Draw call reduction
 
-┌─ AI Integration & Backend ────────────────────────────────────┐
-│ OpenAI API • ElevenLabs TTS • Wit.ai voice recognition       │
-│ WebSockets • Firebase • Real-time synchronization            │
-│ Async processing • Thread-safe design • Low-latency APIs     │
-└───────────────────────────────────────────────────────────────┘
-```
+**⚙️ High-Performance C++ Systems**
+- Modern C++17/20 · RAII & object pooling · Cache optimization
+- Multithreading · STL mastery · Sub-50ms response times
+- Memory management · Profiling & algorithmic optimization
 
+**🤖 AI Integration & Backend**
+- OpenAI API · ElevenLabs TTS · Wit.ai voice recognition
+- WebSockets · Firebase · Real-time synchronization
+- Async processing · Thread-safe design · Low-latency APIs
 ---
 
 ## 🛠️ Technical Stack
@@ -69,8 +62,6 @@ visual immersion, low-level optimization, and modern AI integration.
 ### AI & Cloud
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -85,7 +76,11 @@ visual immersion, low-level optimization, and modern AI integration.
 </td>
 </tr>
 </table>
+<div align="center">
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnassCarreau&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=6)
+
+</div>
 
 ## 🏗️ Featured Projects
 
@@ -93,11 +88,11 @@ visual immersion, low-level optimization, and modern AI integration.
 <tr>
 <td width="50%">
 
-### 🥽 Didascalias - VR Teacher Training Platform
+### 🥽 [Didascalias - VR Teacher Training Platform](https://github.com/arome90/Didascalias)
 **Educational VR system with AI-powered NPCs**
 
 🎯 Production-grade simulator for teacher training with real-world testing  
-🛠️ Unity • C# • Meta Quest SDK • OpenAI • Wit.ai • Firebase
+🛠️ Unity • C# • Meta Quest SDK • OpenAI • Wit.ai • Firebase • Behavior Trees
 
 </td>
 <td width="50%">
@@ -136,8 +131,6 @@ visual immersion, low-level optimization, and modern AI integration.
 </table>
 
 ---
-
-
 ## 📫 Let's Connect
 
 <div align="center">
@@ -150,9 +143,6 @@ visual immersion, low-level optimization, and modern AI integration.
   </a>
   <a href="https://linkedin.com/in/anass-carreau">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
 
