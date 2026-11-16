@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="205" viewBox="0 0 460 205" role="img" aria-labelledby="title desc">
+<title id="title">Fighter Traighter</title><desc id="desc">Train. Select. Fight.. C++ / SDL / State machines</desc>
+<rect x="1" y="1" width="458" height="203" rx="12" fill="#18131f" stroke="#493345"/>
+<g fill="none" stroke="#f75c7e" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"><path d="M333 57h27v24h-27zM390 57h27v24h-27zM347 81v23l15 17M403 81v23l-15 17M361 72l14 12 14-12M375 91v20"/></g>
+<text x="26" y="53" font-family="DejaVu Sans,Arial,sans-serif" font-size="27" font-weight="700" fill="#fff3f6">Fighter Traighter</text>
+<text x="26" y="91" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" fill="#d9bdcc">Train. Select. Fight.</text>
+<path d="M26 139h408" stroke="#493345"/>
+<text x="26" y="176" font-family="DejaVu Sans Mono,monospace" font-size="18" fill="#f79bb3">C++ / SDL / State machines</text>
+</svg>
